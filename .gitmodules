@@ -1,3 +1,30 @@
 [submodule "vendor/tmux-mem-cpu-load"]
 	path = vendor/tmux-mem-cpu-load
 	url = git://github.com/thewtex/tmux-mem-cpu-load.git
+[submodule "vendor/tmux-battery"]
+	path = vendor/tmux-battery
+	url = git@github.com:tmux-plugins/tmux-battery.git
+[submodule "vendor/tmux-pain-control"]
+	path = vendor/tmux-pain-control
+	url = git@github.com:tmux-plugins/tmux-pain-control.git
+[submodule "vendor/tmux-online-status"]
+	path = vendor/tmux-online-status
+	url = git@github.com:tmux-plugins/tmux-online-status.git
+[submodule "vendor/tmux-open"]
+	path = vendor/tmux-open
+	url = git@github.com:tmux-plugins/tmux-open.git
+[submodule "vendor/tmux-urlview"]
+	path = vendor/tmux-urlview
+	url = git@github.com:tmux-plugins/tmux-urlview.git
+[submodule "vendor/tmux-yank"]
+	path = vendor/tmux-yank
+	url = git@github.com:tmux-plugins/tmux-yank.git
+[submodule "vendor/tmux-sidebar"]
+	path = vendor/tmux-sidebar
+	url = git@github.com:tmux-plugins/tmux-sidebar.git
+[submodule "vendor/tmux-prefix-highlight"]
+	path = vendor/tmux-prefix-highlight
+	url = git@github.com:tmux-plugins/tmux-prefix-highlight.git
+[submodule "vendor/tmux-fpp"]
+	path = vendor/tmux-fpp
+	url = git@github.com:tmux-plugins/tmux-fpp.git
